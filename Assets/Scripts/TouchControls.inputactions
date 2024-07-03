@@ -1,0 +1,34 @@
+{
+    "name": "TouchControls",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "57a4eba1-0204-4043-9b34-2952fc8d5159",
+            "actions": [
+                {
+                    "name": "Tap",
+                    "type": "Value",
+                    "id": "8c5f0b21-b55f-466f-9294-6936ebb5d36a",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "46cec7c7-d43b-4dcc-8f29-c21ab7ade4a5",
+                    "path": "<Pointer>/press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Tap",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

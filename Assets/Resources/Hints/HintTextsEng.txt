@@ -1,0 +1,6 @@
+Scan the floor
+Place a starting point
+Make all spheres white
+Investigate the dungeon and collect all coins
+Goblin stole all your coins! Defeat him!
+You have collected all the coins!
